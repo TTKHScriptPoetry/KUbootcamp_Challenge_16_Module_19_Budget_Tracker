@@ -34,6 +34,10 @@
 ###### Fetch Status - Green
 ![4b_Offline_Transaction-Fetches_Request_Status_Green](https://user-images.githubusercontent.com/100046315/167341165-44c9fa49-658a-49cf-9fbd-e569950101aa.png)
 
+###### PWA - enable
+![6-pwa-installation-enable](https://user-images.githubusercontent.com/100046315/167341856-6e7d548f-2f1a-4669-8cae-bf159ede9a40.png)
+
+
 
 
 
